@@ -3,12 +3,12 @@
     "static/js/0.7b490a65.chunk.js": "/star-wars-explorer/static/js/0.7b490a65.chunk.js",
     "static/js/0.7b490a65.chunk.js.map": "/star-wars-explorer/static/js/0.7b490a65.chunk.js.map",
     "main.css": "/star-wars-explorer/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/star-wars-explorer/static/js/main.4fd953f6.chunk.js",
-    "main.js.map": "/star-wars-explorer/static/js/main.4fd953f6.chunk.js.map",
-    "runtime-main.js": "/star-wars-explorer/static/js/runtime-main.ab746af1.js",
-    "runtime-main.js.map": "/star-wars-explorer/static/js/runtime-main.ab746af1.js.map",
-    "static/js/3.9a6517e2.chunk.js": "/star-wars-explorer/static/js/3.9a6517e2.chunk.js",
-    "static/js/3.9a6517e2.chunk.js.map": "/star-wars-explorer/static/js/3.9a6517e2.chunk.js.map",
+    "main.js": "/star-wars-explorer/static/js/main.6205a9fa.chunk.js",
+    "main.js.map": "/star-wars-explorer/static/js/main.6205a9fa.chunk.js.map",
+    "runtime-main.js": "/star-wars-explorer/static/js/runtime-main.0380d69b.js",
+    "runtime-main.js.map": "/star-wars-explorer/static/js/runtime-main.0380d69b.js.map",
+    "static/js/3.17fa8b24.chunk.js": "/star-wars-explorer/static/js/3.17fa8b24.chunk.js",
+    "static/js/3.17fa8b24.chunk.js.map": "/star-wars-explorer/static/js/3.17fa8b24.chunk.js.map",
     "static/js/4.078f1018.chunk.js": "/star-wars-explorer/static/js/4.078f1018.chunk.js",
     "static/js/4.078f1018.chunk.js.map": "/star-wars-explorer/static/js/4.078f1018.chunk.js.map",
     "static/js/5.9fffcdeb.chunk.js": "/star-wars-explorer/static/js/5.9fffcdeb.chunk.js",
@@ -21,16 +21,16 @@
     "static/js/8.a4a26315.chunk.js.map": "/star-wars-explorer/static/js/8.a4a26315.chunk.js.map",
     "static/js/9.ff6d0037.chunk.js": "/star-wars-explorer/static/js/9.ff6d0037.chunk.js",
     "static/js/9.ff6d0037.chunk.js.map": "/star-wars-explorer/static/js/9.ff6d0037.chunk.js.map",
-    "static/js/10.b45af734.chunk.js": "/star-wars-explorer/static/js/10.b45af734.chunk.js",
-    "static/js/10.b45af734.chunk.js.map": "/star-wars-explorer/static/js/10.b45af734.chunk.js.map",
+    "static/js/10.53ea839c.chunk.js": "/star-wars-explorer/static/js/10.53ea839c.chunk.js",
+    "static/js/10.53ea839c.chunk.js.map": "/star-wars-explorer/static/js/10.53ea839c.chunk.js.map",
     "index.html": "/star-wars-explorer/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/star-wars-explorer/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/3.9a6517e2.chunk.js.LICENSE.txt": "/star-wars-explorer/static/js/3.9a6517e2.chunk.js.LICENSE.txt"
+    "static/js/3.17fa8b24.chunk.js.LICENSE.txt": "/star-wars-explorer/static/js/3.17fa8b24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab746af1.js",
-    "static/js/3.9a6517e2.chunk.js",
+    "static/js/runtime-main.0380d69b.js",
+    "static/js/3.17fa8b24.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4fd953f6.chunk.js"
+    "static/js/main.6205a9fa.chunk.js"
   ]
 }
