@@ -1,9 +1,17 @@
 import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import peopleReducer from '../components/People/peopleSlice';
+import moviesReducer from '../components/Movies/moviesSlice';
+import planetsReducer from '../components/Planets/planetsSlice'
+import alertReducer from '../components/Alert/alertSlice'
+import headerReducer from '../components/Layout/Header/headerSlice'
 
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
+    peopleReducer,
+    moviesReducer,
+    planetsReducer,
+    alertReducer,
+    headerReducer
   },
 });
 
