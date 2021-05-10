@@ -2,6 +2,10 @@
 
 \* created using `create-react-app`, `typescript`, `redux`, `material-ui`
 
+![landing-page](https://github.com/adewaleadeoye/star-wars-explorer/blob/master/screenshots/home.png?raw=true)
+![people-screen](https://github.com/adewaleadeoye/star-wars-explorer/blob/master/screenshots/people.png?raw=true)
+![luke-screen](https://github.com/adewaleadeoye/star-wars-explorer/blob/master/screenshots/luke.png?raw=true)
+
 ### How to use: from your machine terminal
 
 1. `git clone https://github.com/adewaleadeoye/star-wars-explorer.git` to make a copy of the project to your machine
